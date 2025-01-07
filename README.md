@@ -1,6 +1,12 @@
 # gunestakipsisemi
 Bu proje, ışık yoğunluğunu algılayarak servo motorları hareket ettiren bir sistemin Arduino ile nasıl çalıştığını gösterir. Sistem, dört adet LDR (Light Dependent Resistor) kullanarak ışık algılaması yapar ve servo motorları buna göre kontrol eder.
 
+
+https://github.com/user-attachments/assets/581fc6cc-f8b8-4b55-b556-de69ba1fdb0c
+
+
+
+
 ## Gereksinimler
 
 - Arduino Uno veya benzer bir mikrodenetleyici kartı
@@ -63,5 +69,7 @@ LDR'ler analog pinlere bağlanarak ışık seviyelerini algılar.
 
 ## Projeyi Hazırlayanlar
 Fırat ORHAN ve Yusuf TİMUR
+
+###
 
 
