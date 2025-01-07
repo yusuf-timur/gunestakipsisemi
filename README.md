@@ -38,12 +38,6 @@ LDR'ler analog pinlere bağlanarak ışık seviyelerini algılar.
 - **Sağ Alt LDR (ldrrd)**  
   - LDR'nin bir ucunu **5V**'a, diğer ucunu **Arduino'nun A3 pinine** bağlayın.
 
-           +-----------------+
-          |     Arduino     |
-          |                 |
- +--------+--------+--------+--------+
- |        |        |        |        |
-(9)      (10)      (A0)     (A1)     (A2)     (A3)
 
 1. **Servo Motor Bağlantıları:**  
    Yatay ve dikey servo motorlar, 9. ve 10. pinlere bağlanmıştır. Bu motorlar, LDR'lerden alınan verilere göre hareket eder.
@@ -67,7 +61,7 @@ LDR'ler analog pinlere bağlanarak ışık seviyelerini algılar.
 4. Arduino'yu bilgisayarınıza bağlayın ve programı yükleyin.
 5. Proje, ışık algılamasına göre servo motorları hareket ettirecektir.
 
-## İletişim
+## Projeyi Hazırlayanlar
 Fırat ORHAN ve Yusuf TİMUR
 
 
